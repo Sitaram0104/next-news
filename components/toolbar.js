@@ -28,7 +28,7 @@ export const Toolbar = () => {
         EOM
       </div>
       <div
-        onClick={() => (window.location.href = "http://twitter.com/portexe")}
+        onClick={() => (window.location.href = "http://twitter.com/Sitaram_m")}
       >
         Twitter
       </div>
